@@ -1,0 +1,201 @@
+order_id,customer_id,order_date,product_name,category,quantity,price_per_unit,total_amount,shipping_status
+1000,5038,2026-03-20 21:00:00,Running Shoes,Apparel,3,110.0,330.0,Delivered
+1001,5028,2026-02-01 23:00:00,Coffee Maker,Appliances,1,90.0,90.0,Delivered
+1002,5014,2026-04-15 19:00:00,Hoodie,Apparel,1,45.0,45.0,Delivered
+1003,5042,2026-04-23 16:00:00,Blender,Appliances,4,60.0,240.0,Delivered
+1004,5007,2026-02-27 19:00:00,Hoodie,Apparel,2,45.0,90.0,Delivered
+1005,5020,2026-01-12 06:00:00,Coffee Maker,Appliances,1,90.0,90.0,Processing
+1006,5038,2026-01-02 02:00:00,Fitness Tracker,Electronics,1,130.0,130.0,Delivered
+1007,5018,2026-04-23 04:00:00,Blender,Appliances,4,60.0,240.0,Delivered
+1008,5022,2026-04-23 23:00:00,Hoodie,Apparel,4,45.0,180.0,Shipped
+1009,5010,2026-03-22 16:00:00,Running Shoes,Apparel,2,110.0,220.0,Delivered
+1010,5010,2026-01-02 01:00:00,Headphones,Electronics,4,150.0,600.0,Delivered
+1011,5023,2026-04-02 21:00:00,Laptop,Electronics,3,1200.0,3600.0,Delivered
+1012,5035,2026-03-28 04:00:00,Headphones,Electronics,4,150.0,600.0,Delivered
+1013,5039,2026-04-06 00:00:00,Coffee Maker,Appliances,3,90.0,270.0,Shipped
+1014,5023,2026-01-01 18:00:00,Smartphone,Electronics,2,800.0,1600.0,Delivered
+1015,5002,2026-01-02 20:00:00,Laptop,Electronics,2,1200.0,2400.0,
+1016,5021,2026-02-13 05:00:00,Bookshelf,Furniture,2,120.0,240.0,Delivered
+1017,5001,2026-02-01 22:00:00,Running Shoes,Apparel,2,110.0,220.0,Delivered
+1018,5023,2026-03-09 22:00:00,Bookshelf,Furniture,2,120.0,240.0,Delivered
+1019,5043,2026-03-16 23:00:00,Blender,Appliances,3,60.0,180.0,Delivered
+1020,5029,2026-01-17 05:00:00,Laptop,Electronics,3,1200.0,3600.0,Delivered
+1021,5037,2026-01-24 04:00:00,Bookshelf,Furniture,2,120.0,240.0,Cancelled
+1022,5001,2026-04-26 01:00:00,Bookshelf,Furniture,4,120.0,480.0,Delivered
+1023,5020,2026-03-11 21:00:00,Hoodie,Apparel,1,45.0,45.0,Delivered
+1024,5032,2026-01-11 15:00:00,Headphones,Electronics,2,150.0,300.0,Delivered
+1025,5011,2026-01-16 00:00:00,Hoodie,Apparel,4,45.0,180.0,Delivered
+1026,5021,2026-03-14 05:00:00,Laptop,Electronics,1,1200.0,1200.0,Delivered
+1027,5043,2026-03-21 02:00:00,Laptop,Electronics,2,1200.0,2400.0,Delivered
+1028,5024,2026-01-20 03:00:00,Coffee Maker,Appliances,2,90.0,180.0,Delivered
+1029,5048,2026-01-19 02:00:00,Hoodie,Apparel,3,45.0,135.0,Delivered
+1030,5026,2026-01-19 19:00:00,Desk Chair,Furniture,1,200.0,200.0,Delivered
+1031,5041,2026-04-06 06:00:00,Headphones,Electronics,1,150.0,150.0,Processing
+1032,5027,2026-02-21 08:00:00,Laptop,Electronics,4,1200.0,4800.0,Delivered
+1033,5015,2026-02-02 07:00:00,Coffee Maker,Appliances,3,90.0,270.0,Delivered
+1034,5014,2026-02-08 17:00:00,Hoodie,Apparel,3,45.0,135.0,Delivered
+1035,5046,2026-04-14 00:00:00,Headphones,Electronics,3,150.0,450.0,Cancelled
+1036,5043,2026-01-11 17:00:00,Hoodie,Apparel,3,45.0,135.0,Delivered
+1037,5002,2026-01-23 09:00:00,Bookshelf,Furniture,1,120.0,120.0,Delivered
+1038,5036,2026-04-09 06:00:00,Coffee Maker,Appliances,1,90.0,90.0,Cancelled
+1039,5006,2026-01-16 15:00:00,Headphones,Electronics,2,150.0,300.0,Processing
+1040,5020,2026-04-26 16:00:00,Fitness Tracker,Electronics,2,130.0,260.0,Shipped
+1041,5008,2026-01-02 00:00:00,Blender,Appliances,3,60.0,180.0,Delivered
+1042,5038,2026-02-17 11:00:00,Blender,Appliances,3,60.0,180.0,Delivered
+1043,5017,2026-03-10 04:00:00,Headphones,Electronics,3,150.0,450.0,Delivered
+1044,5003,2026-02-01 22:00:00,Hoodie,Apparel,2,45.0,90.0,Processing
+1045,5024,2026-01-09 08:00:00,Coffee Maker,Appliances,4,90.0,360.0,Delivered
+1046,5013,2026-04-09 18:00:00,Blender,Appliances,4,60.0,240.0,Delivered
+1047,5049,2026-02-17 15:00:00,Coffee Maker,Appliances,2,90.0,180.0,Delivered
+1048,5008,2026-01-03 19:00:00,Blender,Appliances,2,60.0,120.0,Shipped
+1049,5025,2026-01-24 21:00:00,Bookshelf,Furniture,2,120.0,240.0,Delivered
+1050,5001,2026-04-30 00:00:00,Hoodie,Apparel,2,45.0,90.0,Delivered
+1051,5019,2026-01-24 19:00:00,Bookshelf,Furniture,2,120.0,240.0,Delivered
+1052,5027,2026-03-16 16:00:00,Blender,Appliances,2,60.0,120.0,Delivered
+1053,5046,2026-03-13 03:00:00,Fitness Tracker,Electronics,3,130.0,390.0,Delivered
+1054,5006,2026-02-07 07:00:00,Fitness Tracker,Electronics,3,130.0,390.0,Delivered
+1055,5043,2026-03-25 02:00:00,Bookshelf,Furniture,3,120.0,360.0,Delivered
+1056,5007,2026-04-22 02:00:00,Fitness Tracker,Electronics,3,130.0,390.0,Delivered
+1057,5046,2026-01-25 17:00:00,Blender,Appliances,2,60.0,120.0,Delivered
+1058,5034,2026-04-20 17:00:00,Headphones,Electronics,4,150.0,600.0,Delivered
+1059,5013,2026-03-07 21:00:00,Bookshelf,Furniture,1,120.0,120.0,Delivered
+1060,5016,2026-02-04 15:00:00,Smartphone,Electronics,2,800.0,1600.0,Delivered
+1061,5035,2026-03-02 08:00:00,Hoodie,Apparel,1,45.0,45.0,Delivered
+1062,5049,2026-04-10 00:00:00,Fitness Tracker,Electronics,4,130.0,520.0,Delivered
+1063,5039,2026-03-09 00:00:00,Fitness Tracker,Electronics,3,130.0,390.0,Delivered
+1064,5003,2026-01-14 20:00:00,Laptop,Electronics,4,1200.0,4800.0,Delivered
+1065,5001,2026-02-17 19:00:00,Desk Chair,Furniture,2,200.0,400.0,Cancelled
+1066,5005,2026-04-30 07:00:00,Bookshelf,Furniture,3,120.0,360.0,Delivered
+1067,5041,2026-01-07 02:00:00,Running Shoes,Apparel,2,110.0,220.0,Shipped
+1068,5003,2026-01-17 00:00:00,Fitness Tracker,Electronics,3,130.0,390.0,Delivered
+1069,5028,2026-02-17 11:00:00,Hoodie,Apparel,1,45.0,45.0,Delivered
+1070,5017,2026-02-28 18:00:00,Smartphone,Electronics,1,800.0,800.0,Shipped
+1071,5025,2026-03-27 22:00:00,Fitness Tracker,Electronics,1,130.0,130.0,Delivered
+1072,5043,2026-01-22 13:00:00,Smartphone,Electronics,4,800.0,3200.0,Delivered
+1073,5033,2026-01-30 05:00:00,Blender,Appliances,2,60.0,120.0,Delivered
+1074,5009,2026-04-12 12:00:00,Blender,Appliances,4,60.0,240.0,Delivered
+1075,5035,2026-02-20 21:00:00,Desk Chair,Furniture,1,200.0,200.0,Processing
+1076,5013,2026-01-08 01:00:00,Headphones,Electronics,2,150.0,300.0,Shipped
+1077,5030,2026-01-21 00:00:00,Running Shoes,Apparel,1,110.0,110.0,Cancelled
+1078,5047,2026-01-28 14:00:00,Laptop,Electronics,4,1200.0,4800.0,Delivered
+1079,5014,2026-03-05 00:00:00,Desk Chair,Furniture,4,200.0,800.0,Shipped
+1080,5007,2026-03-10 15:00:00,Coffee Maker,Appliances,4,90.0,360.0,Processing
+1081,5013,2026-01-19 03:00:00,Laptop,Electronics,1,1200.0,1200.0,Delivered
+1082,5022,2026-02-04 16:00:00,Bookshelf,Furniture,2,120.0,240.0,Delivered
+1083,5039,2026-01-17 11:00:00,Hoodie,Apparel,2,45.0,90.0,Shipped
+1084,5020,2026-04-02 13:00:00,Coffee Maker,Appliances,1,90.0,90.0,Delivered
+1085,5015,2026-04-27 05:00:00,Coffee Maker,Appliances,2,90.0,180.0,Shipped
+1086,5044,2026-04-09 08:00:00,Desk Chair,Furniture,1,200.0,200.0,Delivered
+1087,5017,2026-02-06 23:00:00,Headphones,Electronics,2,150.0,300.0,Shipped
+1088,5046,2026-04-03 16:00:00,Desk Chair,Furniture,3,200.0,600.0,Delivered
+1089,5023,2026-02-15 20:00:00,Bookshelf,Furniture,3,120.0,360.0,
+1090,5025,2026-04-05 02:00:00,Fitness Tracker,Electronics,4,130.0,520.0,Delivered
+1091,5024,2026-03-01 00:00:00,Fitness Tracker,Electronics,3,130.0,390.0,Shipped
+1092,5044,2026-04-26 20:00:00,Headphones,Electronics,3,150.0,450.0,Delivered
+1093,5040,2026-02-01 22:00:00,Bookshelf,Furniture,3,120.0,360.0,Delivered
+1094,5028,2026-02-02 02:00:00,Headphones,Electronics,1,150.0,150.0,Delivered
+1095,5014,2026-01-18 09:00:00,Smartphone,Electronics,3,800.0,2400.0,Processing
+1096,5044,2026-04-05 21:00:00,Fitness Tracker,Electronics,3,130.0,390.0,Delivered
+1097,5000,2026-02-27 02:00:00,Coffee Maker,Appliances,4,90.0,360.0,Shipped
+1098,5024,2026-04-14 13:00:00,Running Shoes,Apparel,3,110.0,330.0,Delivered
+1099,5006,2026-01-24 17:00:00,Hoodie,Apparel,3,45.0,135.0,Delivered
+1100,5008,2026-02-01 14:00:00,Bookshelf,Furniture,2,120.0,240.0,Delivered
+1101,5023,2026-03-27 22:00:00,Laptop,Electronics,4,1200.0,4800.0,Delivered
+1102,5000,2026-03-07 09:00:00,Headphones,Electronics,4,150.0,600.0,Shipped
+1103,5043,2026-01-02 16:00:00,Hoodie,Apparel,4,45.0,180.0,Delivered
+1104,5007,2026-04-14 00:00:00,Laptop,Electronics,4,1200.0,4800.0,Delivered
+1105,5023,2026-01-09 10:00:00,Hoodie,Apparel,4,45.0,180.0,Processing
+1106,5010,2026-04-28 15:00:00,Running Shoes,Apparel,4,110.0,440.0,Delivered
+1107,5016,2026-02-08 09:00:00,Laptop,Electronics,1,1200.0,1200.0,Delivered
+1108,5007,2026-04-29 02:00:00,Desk Chair,Furniture,3,200.0,600.0,Processing
+1109,5034,2026-02-19 23:00:00,Blender,Appliances,4,60.0,240.0,Delivered
+1110,5034,2026-01-13 06:00:00,Desk Chair,Furniture,3,200.0,600.0,Delivered
+1111,5032,2026-02-26 03:00:00,Fitness Tracker,Electronics,3,130.0,390.0,Processing
+1112,5004,2026-02-14 19:00:00,Blender,Appliances,1,60.0,60.0,Delivered
+1113,5041,2026-03-06 07:00:00,Desk Chair,Furniture,4,200.0,800.0,Delivered
+1114,5038,2026-04-20 15:00:00,Blender,Appliances,2,60.0,120.0,Delivered
+1115,5040,2026-01-14 11:00:00,Blender,Appliances,1,60.0,60.0,Shipped
+1116,5027,2026-04-25 22:00:00,Coffee Maker,Appliances,2,90.0,180.0,Delivered
+1117,5006,2026-01-15 01:00:00,Headphones,Electronics,3,150.0,450.0,Delivered
+1118,5008,2026-03-07 22:00:00,Headphones,Electronics,3,150.0,450.0,Processing
+1119,5007,2026-03-04 21:00:00,Coffee Maker,Appliances,1,90.0,90.0,Shipped
+1120,5011,2026-02-20 21:00:00,Hoodie,Apparel,1,45.0,45.0,Delivered
+1121,5033,2026-02-27 21:00:00,Smartphone,Electronics,2,800.0,1600.0,Delivered
+1122,5032,2026-02-18 19:00:00,Hoodie,Apparel,4,45.0,180.0,Delivered
+1123,5047,2026-02-11 05:00:00,Laptop,Electronics,2,1200.0,2400.0,Shipped
+1124,5022,2026-01-15 21:00:00,Laptop,Electronics,1,1200.0,1200.0,Delivered
+1125,5023,2026-04-17 04:00:00,Blender,Appliances,2,60.0,120.0,Delivered
+1126,5036,2026-04-07 07:00:00,Desk Chair,Furniture,1,200.0,200.0,Shipped
+1127,5034,2026-02-22 11:00:00,Desk Chair,Furniture,2,200.0,400.0,Processing
+1128,5043,2026-04-18 04:00:00,Headphones,Electronics,1,150.0,150.0,Delivered
+1129,5039,2026-04-13 03:00:00,Bookshelf,Furniture,1,120.0,120.0,
+1130,5021,2026-01-06 12:00:00,Hoodie,Apparel,1,45.0,45.0,Delivered
+1131,5026,2026-04-06 19:00:00,Fitness Tracker,Electronics,4,130.0,520.0,Shipped
+1132,5034,2026-04-04 14:00:00,Running Shoes,Apparel,2,110.0,220.0,
+1133,5000,2026-04-09 22:00:00,Desk Chair,Furniture,2,200.0,400.0,Delivered
+1134,5034,2026-02-09 19:00:00,Running Shoes,Apparel,2,110.0,220.0,Shipped
+1135,5036,2026-01-16 12:00:00,Blender,Appliances,1,60.0,60.0,Delivered
+1136,5046,2026-04-24 09:00:00,Running Shoes,Apparel,2,110.0,220.0,Delivered
+1137,5013,2026-01-30 18:00:00,Fitness Tracker,Electronics,2,130.0,260.0,Shipped
+1138,5002,2026-01-17 23:00:00,Coffee Maker,Appliances,1,90.0,90.0,Shipped
+1139,5000,2026-03-04 18:00:00,Fitness Tracker,Electronics,3,130.0,390.0,Delivered
+1140,5004,2026-04-02 22:00:00,Running Shoes,Apparel,1,110.0,110.0,Delivered
+1141,5025,2026-03-31 04:00:00,Fitness Tracker,Electronics,2,130.0,260.0,Delivered
+1142,5013,2026-03-31 20:00:00,Smartphone,Electronics,1,800.0,800.0,
+1143,5038,2026-03-03 22:00:00,Blender,Appliances,3,60.0,180.0,Delivered
+1144,5026,2026-01-09 11:00:00,Hoodie,Apparel,1,45.0,45.0,Delivered
+1145,5008,2026-04-27 00:00:00,Coffee Maker,Appliances,2,90.0,180.0,Processing
+1146,5014,2026-02-27 00:00:00,Desk Chair,Furniture,3,200.0,600.0,Delivered
+1147,5014,2026-04-21 01:00:00,Laptop,Electronics,4,1200.0,4800.0,Delivered
+1148,5025,2026-04-06 21:00:00,Hoodie,Apparel,2,45.0,90.0,
+1149,5041,2026-02-17 07:00:00,Laptop,Electronics,3,1200.0,3600.0,Processing
+1150,5012,2026-04-19 20:00:00,Blender,Appliances,3,60.0,180.0,Delivered
+1151,5031,2026-01-01 15:00:00,Coffee Maker,Appliances,4,90.0,360.0,Delivered
+1152,5038,2026-03-02 06:00:00,Headphones,Electronics,1,150.0,150.0,Delivered
+1153,5048,2026-03-05 04:00:00,Desk Chair,Furniture,1,200.0,200.0,Delivered
+1154,5031,2026-01-22 22:00:00,Smartphone,Electronics,2,800.0,1600.0,Delivered
+1155,5003,2026-03-08 11:00:00,Headphones,Electronics,4,150.0,600.0,Processing
+1156,5029,2026-01-26 15:00:00,Blender,Appliances,1,60.0,60.0,Processing
+1157,5036,2026-02-20 04:00:00,Hoodie,Apparel,4,45.0,180.0,Delivered
+1158,5022,2026-03-27 13:00:00,Smartphone,Electronics,1,800.0,800.0,Delivered
+1159,5038,2026-04-02 04:00:00,Fitness Tracker,Electronics,3,130.0,390.0,Processing
+1160,5044,2026-02-16 16:00:00,Running Shoes,Apparel,1,110.0,110.0,Shipped
+1161,5014,2026-04-04 13:00:00,Smartphone,Electronics,4,800.0,3200.0,Delivered
+1162,5042,2026-03-03 19:00:00,Blender,Appliances,3,60.0,180.0,Delivered
+1163,5028,2026-03-10 11:00:00,Bookshelf,Furniture,3,120.0,360.0,Delivered
+1164,5035,2026-01-16 15:00:00,Running Shoes,Apparel,3,110.0,330.0,Delivered
+1165,5012,2026-03-26 06:00:00,Laptop,Electronics,4,1200.0,4800.0,Shipped
+1166,5031,2026-04-10 00:00:00,Desk Chair,Furniture,2,200.0,400.0,Processing
+1167,5006,2026-04-04 04:00:00,Laptop,Electronics,2,1200.0,2400.0,Processing
+1168,5021,2026-01-23 09:00:00,Smartphone,Electronics,2,800.0,1600.0,Delivered
+1169,5027,2026-04-28 04:00:00,Laptop,Electronics,4,1200.0,4800.0,Delivered
+1170,5001,2026-04-10 01:00:00,Blender,Appliances,3,60.0,180.0,Cancelled
+1171,5041,2026-02-21 09:00:00,Fitness Tracker,Electronics,2,130.0,260.0,Shipped
+1172,5044,2026-01-19 00:00:00,Hoodie,Apparel,4,45.0,180.0,Delivered
+1173,5005,2026-04-30 04:00:00,Desk Chair,Furniture,2,200.0,400.0,
+1174,5027,2026-04-19 03:00:00,Laptop,Electronics,1,1200.0,1200.0,Processing
+1175,5027,2026-01-16 23:00:00,Laptop,Electronics,2,1200.0,2400.0,Delivered
+1176,5043,2026-03-21 22:00:00,Smartphone,Electronics,2,800.0,1600.0,Delivered
+1177,5043,2026-01-02 16:00:00,Hoodie,Apparel,3,45.0,135.0,Delivered
+1178,5019,2026-04-02 19:00:00,Headphones,Electronics,4,150.0,600.0,Delivered
+1179,5029,2026-01-24 11:00:00,Laptop,Electronics,3,1200.0,3600.0,Delivered
+1180,5010,2026-02-19 02:00:00,Blender,Appliances,3,60.0,180.0,
+1181,5027,2026-02-02 00:00:00,Bookshelf,Furniture,3,120.0,360.0,Delivered
+1182,5024,2026-03-02 18:00:00,Desk Chair,Furniture,3,200.0,600.0,Delivered
+1183,5038,2026-02-12 04:00:00,Laptop,Electronics,3,1200.0,3600.0,Delivered
+1184,5032,2026-01-12 02:00:00,Blender,Appliances,2,60.0,120.0,Delivered
+1185,5000,2026-03-06 00:00:00,Blender,Appliances,3,60.0,180.0,
+1186,5026,2026-02-09 09:00:00,Desk Chair,Furniture,3,200.0,600.0,Delivered
+1187,5012,2026-02-12 11:00:00,Headphones,Electronics,4,150.0,600.0,Delivered
+1188,5040,2026-01-29 12:00:00,Blender,Appliances,1,60.0,60.0,Shipped
+1189,5002,2026-01-12 13:00:00,Bookshelf,Furniture,2,120.0,240.0,Delivered
+1190,5038,2026-01-02 18:00:00,Blender,Appliances,2,60.0,120.0,Delivered
+1191,5005,2026-04-24 02:00:00,Blender,Appliances,2,60.0,120.0,Delivered
+1192,5007,2026-03-28 16:00:00,Blender,Appliances,3,60.0,180.0,Delivered
+1193,5026,2026-03-31 07:00:00,Fitness Tracker,Electronics,3,130.0,390.0,Delivered
+1194,5008,2026-04-03 09:00:00,Fitness Tracker,Electronics,3,130.0,390.0,Delivered
+1195,5036,2026-03-31 01:00:00,Headphones,Electronics,4,150.0,600.0,
+1196,5032,2026-04-25 08:00:00,Laptop,Electronics,1,1200.0,1200.0,Processing
+1197,5041,2026-01-07 03:00:00,Blender,Appliances,3,60.0,180.0,Delivered
+1198,5043,2026-02-27 20:00:00,Hoodie,Apparel,1,45.0,45.0,Delivered
+1199,5023,2026-04-24 12:00:00,Laptop,Electronics,4,1200.0,4800.0,Delivered
